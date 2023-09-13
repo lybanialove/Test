@@ -1,0 +1,80 @@
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\Npgsql.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\MediatR.dll
+C:\Users\лььло\Desktop\Новая папка\WebApplication1\WebApplication1\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\MediatR.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Валан\Desktop\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll

@@ -1,0 +1,29 @@
+﻿using MediatR;
+using WebApplication1.Database.Entities;
+using WebApplication1.Database;
+using WebApplication1.Api.Response;
+using WebApplication1.Api.Request.Event;
+
+namespace WebApplication1.Api.Handlers.EventHandlers
+{
+    public class GetEventHandler : IRequestHandler<GetEventRequest, GetEventResponse>
+    {
+        public IRepository<Event> _repository;
+
+        public GetEventHandler(IRepository<Event> repository)
+        {
+            _repository = repository;
+        }
+
+        public async Task<GetEventResponse> Handle(GetEventRequest request, CancellationToken cancellationToken)
+        {
+            var res = await _repository.Get(request.id);
+
+            if (res == null)
+            {
+                return new GetEventResponse() { errorMessage = "Ошибка получения пользователя. Список пуст!", success = true };
+            }
+            return new GetEventResponse();
+        }
+    }
+}
